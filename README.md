@@ -92,4 +92,4 @@ project.
 
 ## License
 
-MIT © [Northcloud Inc.](https://www.speqit.com)
+MIT © [SPEQit](https://www.speqit.com)
