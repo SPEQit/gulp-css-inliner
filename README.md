@@ -3,7 +3,7 @@
 > A simple and modern CSS inliner for `gulp`, with optional support for CSS preprocessors and templating languages.
 
 [![NPM](https://img.shields.io/npm/v/gulp-css-inliner.svg?label=latest)](https://www.npmjs.com/package/gulp-css-inliner)
-[![Travis.ci](https://travis-ci.org/speqit/gulp-css-inliner.svg?branch=master)](https://travis-ci.org/speqit/gulp-css-inliner)
+[![Travis.ci](https://travis-ci.org/SPEQit/gulp-css-inliner.svg?branch=master)](https://travis-ci.org/SPEQit/gulp-css-inliner)
 
 ## Install
 
